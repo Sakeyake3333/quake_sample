@@ -1,0 +1,13 @@
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\quake_sample\quake_sample\obj\Debug\quake_sample.csproj.AssemblyReference.cache
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\quake_sample\quake_sample\obj\Debug\quake_sample.Form1.resources
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\quake_sample\quake_sample\obj\Debug\quake_sample.Properties.Resources.resources
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\quake_sample\quake_sample\obj\Debug\quake_sample.csproj.GenerateResource.cache
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\quake_sample\quake_sample\obj\Debug\quake_sample.csproj.CoreCompileInputs.cache
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\quake_sample\quake_sample\bin\Debug\quake_sample.exe.config
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\quake_sample\quake_sample\bin\Debug\quake_sample.exe
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\quake_sample\quake_sample\bin\Debug\quake_sample.pdb
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\quake_sample\quake_sample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\quake_sample\quake_sample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\quake_sample\quake_sample\obj\Debug\quake_sample.csproj.CopyComplete
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\quake_sample\quake_sample\obj\Debug\quake_sample.exe
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\quake_sample\quake_sample\obj\Debug\quake_sample.pdb
